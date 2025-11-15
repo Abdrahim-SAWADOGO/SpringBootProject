@@ -17,7 +17,7 @@ import com.DemoApp.demo.service.EmployeeService;
 
 
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/agents")
 public class EmployeeController {
 
     @Autowired
